@@ -13,7 +13,7 @@ function CriaPessoa (nome,sobrenome, idade) {
         //nome: nome,
         //sobrenome: sobrenome,
         //idade: idade,
-        nome, sobrenome, idade, //ele entendo quando for valores de nomes iguais igual esta comentado em cima 
+        nome, sobrenome, idade, //ele entende quando for valores de nomes iguais igual esta comentado em cima 
 
     
     }
