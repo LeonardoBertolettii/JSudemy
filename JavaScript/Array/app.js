@@ -7,3 +7,4 @@ console.log(alunosArray instanceof Array)// para saber que tipo de variavel é e
 
 
 
+
